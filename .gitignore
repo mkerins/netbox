@@ -8,3 +8,4 @@
 fabfile.py
 *.swp
 gunicorn_config.py
+.coverage
